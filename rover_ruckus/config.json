@@ -1,0 +1,8 @@
+{
+    "name": "Rover Ruckus",
+    "season": 2018,
+    "assets": [{
+        "name": "Static Rover Ruckus field assets.",
+        "path": "static_1819_rover_ruckus.glb"
+    }]
+}
